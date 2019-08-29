@@ -1,0 +1,7 @@
+For detailed instructions see README.ipynb
+
+Pipeline Steps:
+(1) Create dictionary of items and word vecs if for NLP, using lexemes.py
+(2) Create inputs and outputs using inputs.py
+(3) Build a model, either ad hoc or pre-built in a separate python file.
+(4) Connect inputs, outputs, and models to a hub() object in modelsHub.py, and start training.
