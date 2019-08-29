@@ -1,4 +1,4 @@
-For detailed instructions see README.ipynb
+<h1>For detailed instructions see README.ipynb</h1>
 
 Pipeline Steps:
 (1) Create dictionary of items and word vecs if for NLP, using lexemes.py
